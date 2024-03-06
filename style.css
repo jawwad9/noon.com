@@ -1,0 +1,98 @@
+.body{
+    box-sizing: border-box;
+    margin: 0;
+padding: 0;
+
+}
+.html{
+font-family: 62.5%;
+}
+
+.container{
+    border: 2px  solid yellow;
+    background-color: yellow;
+    
+}
+.search{
+    width: 600px;
+    height: 30px;
+}
+
+#border{
+    border-right: 1px solid rgb(241, 17, 17);
+    height: 25px;
+    padding: 0px 20px;
+    
+}
+.cart{
+    padding:0px 20px ;
+}
+.hover:hover{
+    cursor: pointer;
+    color: red;
+}
+.d-f{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#hb{
+    display: none;
+}
+
+@media(max-width:400px) {
+
+    
+    #hb{
+       
+        display: block;
+     }
+ .media{ display: none;
+ 
+ 
+ }}
+ @media(max-width:500px) {
+
+    
+    #hb{
+       
+        display: block;
+     }
+ .media{ display: none;
+ 
+ 
+ }}
+
+
+ @media(max-width:1280px) {
+
+   
+    #hb{
+       
+        display: block;
+     }
+ .media{ display: none;
+ 
+ 
+ }}
+
+ 
+
+  
